@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2015\Projects\AdminPersonas\AdminPersonas\bin\Debug\AdminPersonas.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonas\bin\Debug\AdminPersonas.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonas\bin\Debug\AdminPersonas.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonas\bin\Debug\AdminPersonasModel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonas\bin\Debug\AdminPersonasModel.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.pdb
+G:\INACAP2019\Programacion Avanzada\AdminPersonas\AdminPersonas\bin\Debug\AdminPersonas.exe.config
+G:\INACAP2019\Programacion Avanzada\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.exe
+G:\INACAP2019\Programacion Avanzada\AdminPersonas\AdminPersonas\obj\Debug\AdminPersonas.pdb

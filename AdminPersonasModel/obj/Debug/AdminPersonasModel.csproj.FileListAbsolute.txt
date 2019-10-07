@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonasModel\bin\Debug\AdminPersonasModel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonasModel\bin\Debug\AdminPersonasModel.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonasModel\obj\Debug\AdminPersonasModel.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonasModel\obj\Debug\AdminPersonasModel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AdminPersonas\AdminPersonasModel\obj\Debug\AdminPersonasModel.pdb
